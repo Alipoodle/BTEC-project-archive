@@ -1,0 +1,9 @@
+c:\users\alipoodle\documents\visual studio 2015\Projects\Cow and Bell\Cow and Bell\bin\Debug\Cow and Bell.exe.config
+c:\users\alipoodle\documents\visual studio 2015\Projects\Cow and Bell\Cow and Bell\bin\Debug\Cow and Bell.exe
+c:\users\alipoodle\documents\visual studio 2015\Projects\Cow and Bell\Cow and Bell\bin\Debug\Cow and Bell.pdb
+c:\users\alipoodle\documents\visual studio 2015\Projects\Cow and Bell\Cow and Bell\obj\Debug\Cow and Bell.csprojResolveAssemblyReference.cache
+c:\users\alipoodle\documents\visual studio 2015\Projects\Cow and Bell\Cow and Bell\obj\Debug\Cow_and_Bell.Form1.resources
+c:\users\alipoodle\documents\visual studio 2015\Projects\Cow and Bell\Cow and Bell\obj\Debug\Cow_and_Bell.Properties.Resources.resources
+c:\users\alipoodle\documents\visual studio 2015\Projects\Cow and Bell\Cow and Bell\obj\Debug\Cow and Bell.csproj.GenerateResource.Cache
+c:\users\alipoodle\documents\visual studio 2015\Projects\Cow and Bell\Cow and Bell\obj\Debug\Cow and Bell.exe
+c:\users\alipoodle\documents\visual studio 2015\Projects\Cow and Bell\Cow and Bell\obj\Debug\Cow and Bell.pdb
