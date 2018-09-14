@@ -1,0 +1,9 @@
+c:\users\alipoodle\documents\visual studio 2015\Projects\cypher\cypher\bin\Debug\cypher.exe.config
+C:\Users\Alipoodle\documents\visual studio 2015\Projects\cypher\cypher\obj\Debug\cypher.csprojResolveAssemblyReference.cache
+C:\Users\Alipoodle\documents\visual studio 2015\Projects\cypher\cypher\obj\Debug\cypher.Form1.resources
+C:\Users\Alipoodle\documents\visual studio 2015\Projects\cypher\cypher\obj\Debug\cypher.Properties.Resources.resources
+C:\Users\Alipoodle\documents\visual studio 2015\Projects\cypher\cypher\obj\Debug\cypher.csproj.GenerateResource.Cache
+C:\Users\Alipoodle\documents\visual studio 2015\Projects\cypher\cypher\bin\Debug\cypher.exe
+C:\Users\Alipoodle\documents\visual studio 2015\Projects\cypher\cypher\bin\Debug\cypher.pdb
+C:\Users\Alipoodle\documents\visual studio 2015\Projects\cypher\cypher\obj\Debug\cypher.exe
+C:\Users\Alipoodle\documents\visual studio 2015\Projects\cypher\cypher\obj\Debug\cypher.pdb
